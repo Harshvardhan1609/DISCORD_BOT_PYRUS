@@ -1,0 +1,6 @@
+This is just a basic bot of python which i have created 
+This bot can perform some of the commands like 
+Giving you embeds and on_message stuffs 
+
+for more reference you can surely check out this api links 
+https://discordpy.readthedocs.io/en/stable/api.html#event-reference
